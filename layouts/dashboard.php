@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="author" content="Suendri">
 
-	<title>Eid Mubarak Blog | PBWL Project10</title>
+	<title>Eid Mubarak Bl</title>
 	<link rel="shortcut icon" href="<?php echo AST; ?>/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="<?php echo AST; ?>/datatables/datatables.min.css">
 	<link rel="stylesheet" href="<?php echo AST; ?>/css/style.css">
@@ -30,6 +30,11 @@
 				<li>
 					<a href="<?php echo URL; ?>/dashboard">
 						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Home
+					</a>
+				</li>
+				<li>
+					<a href="<?php echo URL; ?>/setting">
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Setting
 					</a>
 				</li>
 				<li>
