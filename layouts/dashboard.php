@@ -53,8 +53,8 @@
 					</a>
 				</li>
 				<li>
-					<a href="<?php echo URL; ?>/layanan">
-						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Layanan
+					<a href="<?php echo URL; ?>/Galeris">
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Galeri
 					</a>
 				</li>
 				<li>
